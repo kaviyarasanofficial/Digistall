@@ -13,11 +13,13 @@ import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 
 import { AppComponent } from './app.component';
 import { HeadernavComponent } from './headernav/headernav.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeadernavComponent
+    HeadernavComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
