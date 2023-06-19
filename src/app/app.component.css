@@ -1,0 +1,7 @@
+#preloader{
+    background: #f0f0f1 url(https://tst.lazybill.com/assets/icons/favicon57.png) no-repeat center center;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    }
