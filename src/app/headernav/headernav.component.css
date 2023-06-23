@@ -14,7 +14,7 @@ body{
       padding: 26px 0px;
   }
   .logo a {
-      color: #3a76cb;
+      color: #008cba;
       text-transform: capitalize;
       color: #000000;
       font-size: 35px;
@@ -49,7 +49,7 @@ body{
       font-size: 20px;
       font-weight: 500;
       line-height: 1.3;
-      color: #3a76cb;
+      color: #008cba;
       display: block;
      text-decoration:none;
   }
@@ -62,8 +62,8 @@ body{
       border-radius: 4px;
       background-color: #fff;
       text-align: center;
-      color: #3a76cb;
-      border: solid 1px #3a76cb;
+      color: #008cba;
+      border: solid 1px #008cba;
       vertical-align: middle;
       display: table-cell;
   }
@@ -71,7 +71,7 @@ body{
       margin-right: 0px;
   }
   .main-menu ul.right-nav li.active a {
-      background-color: #3a76cb;
+      background-color: #008cba;
       color: #fff;
   }
   @media(max-width:1000px){
@@ -85,13 +85,13 @@ body{
       width: 20%;
   }
   .mob-menu span {
-      border: solid 2px #3a76cb;
+      border: solid 2px #008cba;
       display: block;
       text-align: center;
       border-radius: 4px;
       padding: 2px 6px;
       width: 50px;
-      color: #3a76cb;
+      color: #008cba;
       font-size: 25px;
       cursor: pointer;
   } 

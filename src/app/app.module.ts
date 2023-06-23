@@ -19,6 +19,11 @@ import { AppRoutingModule } from './app-routing.module';
 import { ServicesComponent } from './services/services.component';
 import { AboutComponent } from './about/about.component';
 import { ProductComponent } from './product/product.component';
+import { HomepageComponent } from './homepage/homepage.component';
+import { SliderComponent } from './homepage/slider/slider.component';
+import { HomepagecenterComponent } from './homepage/homepagecenter/homepagecenter.component';
+
+
 
 @NgModule({
   declarations: [
@@ -28,7 +33,12 @@ import { ProductComponent } from './product/product.component';
     ContactComponent,
     ServicesComponent,
     AboutComponent,
-    ProductComponent
+    ProductComponent,
+    HomepageComponent,
+    SliderComponent,
+    HomepagecenterComponent,
+    
+    
   ],
   imports: [
     BrowserModule,
